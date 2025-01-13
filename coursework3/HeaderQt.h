@@ -1,0 +1,24 @@
+#pragma once
+
+#include <QWidget>
+#include <QPushButton>
+#include <QtGui>
+#include <QLabel>
+#include <QLineEdit>
+#include <QTextEdit> 
+#include <QGridLayout> 
+#include <QLCDNumber> 
+#include <QMessageBox>
+#include <QInputDialog>
+#include <QScrollArea>
+#include <QString>
+#include <QStringList>
+#include <QHBoxLayout>
+#include <QVBoxLayout>
+#include <QTabWidget>
+#include <QGroupBox>
+#include <QColor>
+#include <QStyle>
+#include <QTableWidget>
+#include <QTableWidgetItem>
+#include <QHeaderView>
